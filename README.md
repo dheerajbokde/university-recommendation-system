@@ -4,4 +4,18 @@ On Internet today, an overabundance of information can be accessed, making it di
 
    This work aims at offering University Recommendation System to provide University/College Recommendation to Students which combines Multi-Criteria Collaborative Filtering and Dimensionality Reduction technique to provide high quality University/College recommendation to Students. The proposed solution not only reduces the computation cost but also increases the accuracy and efficiency of the MC-CF algorithms implemented using the Apache Mahout framework. By utilizing Mahout API’s, the response time of algorithm were significantly improved.
 
+# Screen Shots
+1. Home Page
 ![alt text](https://github.com/DheerajBokde/UniversityRecommendationSystem/blob/master/Home.jpg)
+
+2. Login Page
+![alt text](https://github.com/DheerajBokde/UniversityRecommendationSystem/blob/master/Login.jpg)
+
+3. Search Page
+![alt text](https://github.com/DheerajBokde/UniversityRecommendationSystem/blob/master/Search.jpg)
+
+4. Recommendations Page
+![alt text](https://github.com/DheerajBokde/UniversityRecommendationSystem/blob/master/Recommendation.jpg)
+
+5. Review Page
+![alt text](https://github.com/DheerajBokde/UniversityRecommendationSystem/blob/master/Write%20Review.jpg)
