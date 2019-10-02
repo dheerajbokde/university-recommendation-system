@@ -6,16 +6,16 @@ On Internet today, an overabundance of information can be accessed, making it di
 
 # Screen Shots
 1. Home Page
-![alt text](https://github.com/DheerajBokde/UniversityRecommendationSystem/blob/master/Home.jpg)
+![alt text](https://github.com/dheerajbokde/university-recommendation-system/blob/master/images/Home.jpg)
 
 2. Login Page
-![alt text](https://github.com/DheerajBokde/UniversityRecommendationSystem/blob/master/Login.jpg)
+![alt text](https://github.com/DheerajBokde/UniversityRecommendationSystem/blob/master/images/Login.jpg)
 
 3. Search Page
-![alt text](https://github.com/DheerajBokde/UniversityRecommendationSystem/blob/master/Search.jpg)
+![alt text](https://github.com/DheerajBokde/UniversityRecommendationSystem/blob/master/images/Search.jpg)
 
 4. Recommendations Page
-![alt text](https://github.com/DheerajBokde/UniversityRecommendationSystem/blob/master/Recommendation.jpg)
+![alt text](https://github.com/DheerajBokde/UniversityRecommendationSystem/blob/master/images/Recommendation.jpg)
 
 5. Review Page
-![alt text](https://github.com/DheerajBokde/UniversityRecommendationSystem/blob/master/Write%20Review.jpg)
+![alt text](https://github.com/DheerajBokde/UniversityRecommendationSystem/blob/master/images/Write%20Review.jpg)
